@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+.kos{
+    color: yellow;
+}
+.bu{
+    color: white;
+}
+.yul{
+    color: green;
+}
+.puti{
+    width: 300px;
+    height: 400px;
+    border: 3px solid yellow;
+}
+.zaga{
+    width: 300px;
+    height: 400px;
+    border: 3px solid yellow;
+}
+iframe{
+    width: 700px;
+    height: 400px;
+}
+table{
+    width: 1300px;
+    text-align: center;
+    border-collapse: collapse;
+   
+}
+tr{
+    color: white;
+}
+.nima{
+    color: white;
+}
+input{
+    width: 1300px;
+    height: auto;
+    border-radius: 10px;
+}
+button{
+    background:transparent ;
+    box-shadow:0 0 10px aqua ;
+    width: 500px;
+    border-radius:  20px ;
+    cursor: pointer ;
+    color: gray;
+}
+button:hover{
+    background-color: aqua;
+    box-shadow: 0 0 20px aqua;
+}

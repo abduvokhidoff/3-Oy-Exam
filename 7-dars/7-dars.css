@@ -1,0 +1,74 @@
+/* h1{
+    color:blue;
+    background-color:brown;
+    text-align:center;
+}
+.text{
+    color:black;
+} */
+/* #text_id1{} */
+/* h1{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    color:orange;
+    background-color:black;
+    height:70px;
+    border:3px solid
+} */
+/* .assa{
+    background-color:aqua;
+    color:red;
+    height:50px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-radius:20px 0px 20px 0px ;
+}
+#Lorem{
+    color:yellow;
+    background-color:black;
+    border:3px solid red;
+}
+h3{
+    border:3px solid black;
+    width:250px;
+}
+.in{
+    color:red;
+}
+.ter{
+    color:green;
+}
+.ex{color:blue;} */
+#i1{
+    background-color:aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius:50px;
+}
+#id_1{
+    color:yellow;
+    background-color: black;
+    border:2px solid red;
+    border-radius:10px ; 
+
+}
+
+ div{
+    background-color:black;
+    width:100%;
+    height:600px;
+ }
+ .div_image{
+    text-align:center;
+ }
+ /* display:block-bu rasmlarni polniy strokaga qilib block qib beradi 
+ mirgane: 0 auto-bu rasmlarni ortaga wqilib berasi 
+ mirgane-left; 0 auto bu rasmlarni chpdan ortaga olib beradi */
+ h2{
+    background-color: rgb(193, 239, 239) ;
+    border-radius:20px;
+    color:black;
+ }

@@ -1,0 +1,239 @@
+/* table{
+    margin: 100px auto;
+    border-collapse: collapse;
+    width: 900px;
+    text-align: center;
+    height: 100px;
+}
+.Xoshimov{
+    background-color: black;
+    color: white;
+} */
+/* colspan bu yongi liniya 
+a rowapan bu paski liniya */
+/* table{
+    margin: 100px auto;
+    border-collapse: collapse;
+    border-color: blue;
+    width: 500px;
+    text-align: center;
+    height: 200px;
+}
+.№{
+    background-color: green;
+    color: white;
+
+}
+.Ism{
+    background-color: red;
+    color: white;
+}
+.Fam{
+    background-color: black;
+    color: white;
+
+}
+.Yo{
+ background-color: black;
+ color: white;
+
+}
+.Yon{
+    background-color: yellow;
+  
+}
+.Bir{
+  background-color: green;
+  color: white;
+}
+.Atham{
+    background-color: black;
+    color: white;
+}
+.Shaisayev{
+    background-color: red;
+    color: white;
+}
+.Yigi{
+    background-color: yellow;
+}
+.Front{
+    background-color: black;
+    color: white;
+}
+.Ikki{
+    background-color: green;
+    color: white;
+
+}
+.John{
+    background-color: black;
+    color: white;
+
+}
+.Smith{
+    background-color: yellow;
+    
+}
+.ot{
+    background-color: red;
+    color: white;
+}
+.KoKo{
+    background-color: black;
+    color: white;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table{
+    text-align:center;
+    margin: 100px auto;
+}
+.me{
+background-color: yellow; 
+}
+.you{
+    background-color: purple;
+}
+.to{
+    background-color: yellow;
+}
+.love{
+    background-color: yellow;
+}
+.he{
+    background-color: yellow;
+}
+.she{
+    background-color: green;
+}
+.it{
+background-color: green;
+}
+.we{
+    background-color: purple;
+}
+.they{
+    background-color: yellow;
+}
+.the{
+    background-color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table{
+    border-collapse: collapse;
+    width: 600px;
+    height: 140px;
+    margin: 100px auto;
+    text-align: center;
+}
+caption{text-align: center;
+    background-color: aqua;
+    width: 100%
+}
+    
+.id{
+    background-color: yellow;
+    height: 20px;
+}
+.Jo{
+    /* background-image:url("https://good-hope.in/cdn/shop/files/RonaldoJuventus.jpg?v=1698565774");
+    background-size: 100% 100%; */
+    background-color: red;
+    color: white;
+}
+.De{
+    background-color: red;
+    color: white;
+}
+.Do{
+    background-color: green;
+    color: white;
+}
+.Ja{
+    background-color: red;
+    color: white;
+}
+.Si{
+    background-color: red;
+    color: white;
+}
+.ll{
+    background-color: green;
+    color: white;
+}
+.Bo{
+    background-color: red;
+    color: white;
+
+}
+.Ma{
+    background-color: red;
+    color: white;
+}
+.Ar{
+    background-color: green;
+    color: white;
+}
+/* button{
+    background-color: red;
+    color: white;
+} */
